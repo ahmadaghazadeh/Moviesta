@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Moviesta</string>
     <string name="movie_image_description">Movie Image Description</string>
+    <string name="movie_more_infromation">Movie More information\n</string>
 </resources>
